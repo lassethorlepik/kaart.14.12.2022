@@ -9,6 +9,6 @@ In that file you need to change the following links:
 * `src=""`
 
 First two reference the url client will be redirected to.
-The kast one links the email image file.
+The last one links the email image file.
 
 To add clickable image to your email, open email.html in your browser, press ctrl+a ctrl+c and paste it into your email using ctrl+v.
